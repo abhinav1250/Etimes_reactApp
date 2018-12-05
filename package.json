@@ -26,5 +26,8 @@
     "react-dom": "^16.6.3",
     "webpack": "^4.27.0",
     "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "fs-error-logger": "^1.0.9"
   }
 }
