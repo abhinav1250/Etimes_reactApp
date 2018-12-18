@@ -4,7 +4,7 @@
   "description": "This is repositoryeact based ETimes app",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --open --mode development",
+    "start": "webpack-dev-server --hot",
     "build": "webpack"
   },
   "repository": {
@@ -24,6 +24,7 @@
     "prop-types": "^15.6.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-hot-loader": "^4.6.1",
     "webpack": "^4.26.1",
     "webpack-cli": "^3.1.2"
   }
